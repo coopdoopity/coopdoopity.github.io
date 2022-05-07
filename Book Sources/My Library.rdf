@@ -1,0 +1,628 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\crohd\Downloads\tandf_rsoa2017_25.ris"/>
+        <dc:title>tandf_rsoa2017_25.ris</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/x-research-info-systems</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/02759527.1993.11932157">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0275-9527"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anand</foaf:surname>
+                        <foaf:givenName>Shahla</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_3"/>
+        <dc:title>Poems And Rhetoric Of Sarojini Naidu (1879–1949)</dc:title>
+        <dc:date>December 1, 1993</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/02759527.1993.11932157</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Routledge</dc:description>
+        <bib:pages>25-33</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0275-9527">
+        <prism:volume>17</prism:volume>
+        <dc:title>South Asian Review</dc:title>
+        <dc:identifier>DOI 10.1080/02759527.1993.11932157</dc:identifier>
+        <prism:number>14</prism:number>
+        <dcterms:alternative>null</dcterms:alternative>
+        <dc:identifier>ISSN 0275-9527</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_3">
+        <rdf:value>&lt;p&gt;doi: 10.1080/02759527.1993.11932157&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New Delhi</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sarup &amp; Sons</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaur</foaf:surname>
+                        <foaf:givenName>Satvinder</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sarojini Naidu's Poetry/ Melody of Indiannes</dc:title>
+        <dc:date>2003</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Himayatnagar, Hyderabad</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Orient Longman Limited</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Vishwanath S. Naravane</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sarojini Naidu: An Introduction to Her Life, Work and Poetry</dc:title>
+        <dc:date>1996</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Madras: G.A. Natean &amp; Co.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naidu</foaf:surname>
+                        <foaf:givenName>Sarojini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Speeches and Writings of Sarojini Naidu</dc:title>
+        <dc:date>1919</dc:date>
+    </bib:Book>
+    <bib:Book rdf:about="#item_7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>W. Heinemann</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naidu</foaf:surname>
+                        <foaf:givenName>Sarojini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Bird of Time</dc:title>
+        <dc:date>1912</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="#item_8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1186/s40691-017-0088-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2198-0802"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michel</foaf:surname>
+                        <foaf:givenName>Gwendolyn M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Young-A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cloth(ing) for the dead: case study of three designers’ green burial practices</dc:title>
+        <dcterms:abstract>The aim of this study was to explore the current green burial clothing movement by examining three designers’ work using a multi-case study approach. Green burial incorporates a sustainability concept into funeral practices. Cradle-to-cradle, as opposed to cradle-to-grave, is a model for sustainability practices that plan for the product lifecycle to continue after consumer use of the product has concluded. The works of Mark Mitchell, Jae Rhim Lee and Pia Interlandi were selected for the three cases of green burial practices in the context of cradle-to-cradle design using the five steps to eco-effectiveness. They used natural fibers in their clothing designed for green burial, and created clothing intended to be non-toxic to the soil and groundwater when buried with the body. Jae Rhim Lee’s designs included a mushroom culture to aid in decomposition of the body and remediation of toxins found in the body, resulting in compostable soil. In addition to the multi-case study, this study also examined a wide variety of primary and secondary research literature from the fields of forensics, archaeology, and textile science to identify current purchase options for green burial clothing and to inform suggestions for future development of green burial apparel within the context of cradle-to-cradle design. This study also urged the importance of consumer awareness in terms of the choice of burial clothing if considering the full implementation of the cradle-to-cradle design principles into green burial clothing practices. The findings of this study call for further research on sustainability in burial clothing.</dcterms:abstract>
+        <dc:date>2017-03-28</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1186/s40691-017-0088-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>4</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2198-0802">
+        <prism:volume>4</prism:volume>
+        <dc:title>Fashion and Textiles</dc:title>
+        <dc:identifier>DOI 10.1186/s40691-017-0088-y</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Fashion and Textiles</dcterms:alternative>
+        <dc:identifier>ISSN 2198-0802</dc:identifier>
+    </bib:Journal>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_1964_stamp_of_India.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>India Post, Government of India</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sarojini Naidu 1964 Stamp of India.jpg</dc:title>
+        <dc:date>2/13/1964</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_1964_stamp_of_India.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_by_JB_Yeats.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yeats</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sarojini Naidu by JB Yeats.jpg</dc:title>
+        <dc:date>1896</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_by_JB_Yeats.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_Ashes.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hyderabad</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Vin09</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sarojini Naidu Ashes</dc:title>
+        <dc:date>12/20/2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_Ashes.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Gandhi_with_Aga_Khan_and_Sarojini_Naidu.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Unkown Author</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Gandhi with Aga Khan and Sarojini Naidu</dc:title>
+        <dc:date>1942</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Gandhi_with_Aga_Khan_and_Sarojini_Naidu.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:File_Nizam_college.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Adbh266</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Nizam College</dc:title>
+        <dc:date>12/31/2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:File_Nizam_college.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Native_crawling_up_street_where_Miss_Sherwood_was_assaulted_1919.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Unknown Author</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Native crawling up street where Miss Sherwood was assaulted 1919.jpg</dc:title>
+        <dc:date>1919</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Native_crawling_up_street_where_Miss_Sherwood_was_assaulted_1919.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Mahatma_%26_Sarojini_Naidu_1930.JPG">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Unknown Author</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Mahatma &amp; Sarojini Naidu 1930.JPG</dc:title>
+        <dc:date>1930</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Mahatma_%26_Sarojini_Naidu_1930.JPG</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="#item_17">
+       <z:itemType>manuscript</z:itemType>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_plants_a_tree_in_Mehrauli,_Delhi.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>photodivision.gov.in</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sarojini Naidu plants a tree in Mehrauli, Delhi</dc:title>
+        <dc:date>7/23/1947</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_plants_a_tree_in_Mehrauli,_Delhi.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:Golden_Threshold_in_Abids,_Hyderabad.JPG">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Abdis, Hyderabad</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kashyap</foaf:surname>
+                        <foaf:givenName>Srikar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Golden Threshold in Abids, Hyderabad.JPG</dc:title>
+        <dc:date>12/20/2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:Golden_Threshold_in_Abids,_Hyderabad.JPG</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Creative Commons Attribution-Share Alike 4.0 International License</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://en.wikipedia.org/wiki/File:Girton_College,_Cambridge,_England,_1890s.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge, England</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Girton College, Cambridge, England, 1890s.jpg</dc:title>
+        <dc:date>1890</dc:date>
+        <z:archive>Library of Congress</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/File:Girton_College,_Cambridge,_England,_1890s.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Article rdf:about="#item_21">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </bib:Article>
+    <bib:Article rdf:about="#item_22">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2225-7160"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slabbert</foaf:surname>
+                        <foaf:givenName>Magda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Labuschaigne</foaf:surname>
+                        <foaf:givenName>Melody</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Aquamation: legal nail in burial and cremation's coffin?</dc:title>
+        <dc:date>2021</dc:date>
+        <dc:description>Publisher: scieloza</dc:description>
+        <bib:pages>359-369</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2225-7160">
+        <prism:volume>54</prism:volume>
+        <dc:title>De Jure Law Journal</dc:title>
+        <dcterms:alternative>De Jure Law Journal</dcterms:alternative>
+        <dc:identifier>ISSN 2225-7160</dc:identifier>
+    </bib:Journal>
+    <bib:Manuscript rdf:about="https://aquamationinfo.com">
+        <z:itemType>manuscript</z:itemType>
+        <dc:title>Aquamation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://aquamationinfo.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Bio-Response Solutions</dc:rights>
+        <z:type>Website</z:type>
+    </bib:Manuscript>
+    <bib:Book rdf:about="#item_24">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Gainsville, Florida</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University Press of Florida</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ashmore</foaf:surname>
+                        <foaf:givenName>Wendy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Geller</foaf:surname>
+                        <foaf:givenName>Pamela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rakita</foaf:surname>
+                        <foaf:givenName>Gordon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buikstra</foaf:surname>
+                        <foaf:givenName>Jane</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Williams</foaf:surname>
+                        <foaf:givenName>Sloan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Interacting with the Dead Perspectives on Mortuary Archaeology for the New Millennium</dc:title>
+        <dc:date>2005</dc:date>
+        <z:numPages>81-92</z:numPages>
+    </bib:Book>
+    <bib:Manuscript rdf:about="https://en.wikipedia.org/wiki/British_Raj#/media/File:Noncooperation_movement1922.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Unknown Author</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Noncooperation movement1922</dc:title>
+        <dc:date>1922</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/British_Raj#/media/File:Noncooperation_movement1922.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://commons.wikimedia.org/wiki/File:VictoriaQueen1862Empress1886.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Fowler&amp;Fowler</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Victoria Queen 1862 Empress 1866.jpg</dc:title>
+        <dc:date>1862</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.wikimedia.org/wiki/File:VictoriaQueen1862Empress1886.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://en.wikipedia.org/wiki/Indian_independence_movement#/media/File:1st_INC1885.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Unknown Author</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The First Indian National Congress</dc:title>
+        <dc:date>1885</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/Indian_independence_movement#/media/File:1st_INC1885.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Manuscript>
+    <bib:Manuscript rdf:about="https://en.wikipedia.org/wiki/Indian_independence_movement#/media/File:Ghadar_di_gunj.jpg">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Unknown Author</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ghadar Di Gunj</dc:title>
+        <dc:date>1913</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/Indian_independence_movement#/media/File:Ghadar_di_gunj.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Manuscript>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>10.1186_s40691-017-0088-y-citation</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1186/s40691-017-0088-y"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+       <dc:title>blogpost</dc:title><dcterms:hasPart rdf:resource="#item_8"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_5">
+       <dc:title>Death Blog</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>dejureS2225-71602021000100021</dc:title>
+        <dcterms:hasPart rdf:resource="#item_22"/>
+        <dcterms:hasPart rdf:resource="https://aquamationinfo.com"/>
+        <dcterms:hasPart rdf:resource="#item_24"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_4">
+        <dc:title>Sarojini Naidu Image db</dc:title>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_1964_stamp_of_India.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_by_JB_Yeats.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_Ashes.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Gandhi_with_Aga_Khan_and_Sarojini_Naidu.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:File_Nizam_college.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Native_crawling_up_street_where_Miss_Sherwood_was_assaulted_1919.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Mahatma_%26_Sarojini_Naidu_1930.JPG"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_plants_a_tree_in_Mehrauli,_Delhi.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:Golden_Threshold_in_Abids,_Hyderabad.JPG"/>
+        <dcterms:hasPart rdf:resource="https://en.wikipedia.org/wiki/File:Girton_College,_Cambridge,_England,_1890s.jpg"/>
+        <dcterms:hasPart rdf:resource="https://en.wikipedia.org/wiki/British_Raj#/media/File:Noncooperation_movement1922.jpg"/>
+        <dcterms:hasPart rdf:resource="https://commons.wikimedia.org/wiki/File:VictoriaQueen1862Empress1886.jpg"/>
+        <dcterms:hasPart rdf:resource="https://en.wikipedia.org/wiki/Indian_independence_movement#/media/File:1st_INC1885.jpg"/>
+        <dcterms:hasPart rdf:resource="https://en.wikipedia.org/wiki/Indian_independence_movement#/media/File:Ghadar_di_gunj.jpg"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>tandf_rsoa2017_25</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1080/02759527.1993.11932157"/>
+        <dcterms:hasPart rdf:resource="#item_4"/>
+        <dcterms:hasPart rdf:resource="#item_5"/>
+        <dcterms:hasPart rdf:resource="#item_6"/>
+        <dcterms:hasPart rdf:resource="#item_7"/>
+    </z:Collection>
+</rdf:RDF>
